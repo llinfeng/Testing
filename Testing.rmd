@@ -8,3 +8,6 @@ print("hello")
 ## R-markdown Vim binding is a bit off:
 * There is no `<c-w>` mapping 
 * `<c-d>` in insert mode is a bit off.
+
+## And, something new:
+Well, this markdown document looks good, and I shall start using these notebook for data analysis. asdflk jasldfk jasldkfj 
